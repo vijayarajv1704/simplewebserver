@@ -51,8 +51,9 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![out1](https://github.com/vijayarajv1704/simplewebserver/assets/121303741/c2b24067-8126-4000-b524-f9c53e94a58d)
-![out2](https://github.com/vijayarajv1704/simplewebserver/assets/121303741/3904486d-1ad5-41fc-97cb-be3a74eb3603)
+![WhatsApp Image 2023-06-07 at 21 45 45](https://github.com/vijayarajv1704/simplewebserver/assets/121303741/f63a43cb-b154-4932-a095-e7c0628d0d0a)
+![WhatsApp Image 2023-06-07 at 21 46 12](https://github.com/vijayarajv1704/simplewebserver/assets/121303741/dfbd2f1b-ba7a-4a19-8418-b618933ed83a)
+
 
 
 ## RESULT:
