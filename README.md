@@ -51,8 +51,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![WhatsApp Image 2023-06-07 at 21 45 45](https://github.com/vijayarajv1704/simplewebserver/assets/121303741/f63a43cb-b154-4932-a095-e7c0628d0d0a)
-![WhatsApp Image 2023-06-07 at 21 46 12](https://github.com/vijayarajv1704/simplewebserver/assets/121303741/dfbd2f1b-ba7a-4a19-8418-b618933ed83a)
+![image](https://github.com/vijayarajv1704/simplewebserver/assets/121303741/32d4a33b-4c8d-4379-acc1-779c555f8de3)
+![image](https://github.com/vijayarajv1704/simplewebserver/assets/121303741/cfc2ae33-557b-4ee5-a47b-0f3bc6ecb620)
 
 
 
